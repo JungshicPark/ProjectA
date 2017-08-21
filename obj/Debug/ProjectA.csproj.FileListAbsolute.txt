@@ -1,0 +1,1 @@
+D:\PracticeGitHub\ProjectA\bin\Debug\ProjectA.exe.config
